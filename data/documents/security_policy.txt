@@ -1,0 +1,6 @@
+# Incident Reporting
+Security incidents must be reported to the Security Operations team within one hour of discovery. The report should include the affected service, discovery time, observed impact, and the reporter's contact details.
+
+# Access Reviews
+System owners must review privileged access every quarter. Access that is no longer required must be removed within two business days.
+

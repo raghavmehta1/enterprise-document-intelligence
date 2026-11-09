@@ -1,0 +1,6 @@
+# Backup and Recovery
+Production databases are backed up every six hours. Recovery tests are performed monthly, and the target recovery time is four hours.
+
+# Change Management
+High-risk production changes require peer review, a rollback plan, and approval from the service owner before deployment.
+
